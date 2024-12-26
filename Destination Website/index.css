@@ -1,0 +1,7 @@
+a{
+    outline:1px solid red;
+    background-color: aquamarine;
+    padding: 5px;
+    text-decoration: none;
+    cursor:progress;
+}
